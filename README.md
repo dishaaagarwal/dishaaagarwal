@@ -14,7 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaagarwal)](https://github.com/anuraghazra/github-readme-stats)
 
-<a target="_blank" href="https://www.analyticsvidhya.com/blog/2021/06/guide-to-gradient-descent-and-its-variants-with-python-implementation/0"><img src="https://www.analyticsvidhya.com/blog/2021/06/guide-to-gradient-descent-and-its-variants-with-python-implementation/0" alt="Recent Article 0">
  
 <!-- dishaaagarwal/dishaaagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
