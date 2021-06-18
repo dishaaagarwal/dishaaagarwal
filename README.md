@@ -1,5 +1,7 @@
-- 👋 Hi there. I’m Dishaa
+- 👋 Hi there, I’m Dishaa
+- 💼  I'm currently working full-time at Infosys as a Systems Engineer
 - 👀 I’m interested in Data Science, Machine Learning and books.
+- 💻  I spend most of my time working on a Machine Learning and Deep Learning based projects.
 - 🌱 I’m addicted to learning and growing every day by taking one step at a time.
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
