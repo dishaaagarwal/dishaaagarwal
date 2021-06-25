@@ -17,10 +17,7 @@
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Gradient Descent and Its Variants with Python Implementation](https://www.analyticsvidhya.com/blog/2021/06/guide-to-gradient-descent-and-its-variants-with-python-implementation/)
-- [Cross Sell Prediction : Solution to Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/cross-sell-prediction-solution-to-analytics-vidya/)
-- [Introduction to SVM(Support Vector Machine) Along with Python Code](https://www.analyticsvidhya.com/blog/2021/04/insight-into-svm-support-vector-machine-along-with-code/)
-- [Guide For Feature Extraction Techniques](https://www.analyticsvidhya.com/blog/2021/04/guide-for-feature-extraction-techniques/)
+- [[Action required] Your RSS.app Trial has Expired - Fri Jun 25 2021](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
  
