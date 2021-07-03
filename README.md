@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaagarwal)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📩 Latest Blog Posts // You can name it whatever you want.
+# 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
