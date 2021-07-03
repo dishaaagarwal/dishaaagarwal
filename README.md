@@ -15,9 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dishaaagarwal)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📩 Latest Blog Posts 
+# 📩 Latest Blog Posts // You can name it whatever you want.
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Jul 03 2021](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
  
