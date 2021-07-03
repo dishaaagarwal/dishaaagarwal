@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://rss.app/feeds/8z1jL0UsfNQfKNZi.xml"
+          feed_list: "http://fetchrss.com/rss/60e0908a65954303ba1eb08260e090c36722e554d7533d92.xml"
