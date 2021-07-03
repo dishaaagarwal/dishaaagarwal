@@ -17,7 +17,6 @@
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Jul 03 2021](https://rss.app)
 <!-- BLOG-POST-LIST:END -->
 
  
